@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="./assets/swetakoshta_banner.png"/>
+<img src="./assets/sweta_koshta_banner.png"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sweta Koshta</h1>
